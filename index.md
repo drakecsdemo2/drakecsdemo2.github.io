@@ -13,3 +13,5 @@ title: "Portfolio Homepage"
 
 
 Welcome to my portfolio!
+
+![a super cute orange tabby cat](/cute_cat.jpg/)
